@@ -2,7 +2,7 @@
 ## I'm a student studying from India, and also a content creator!
 
 - 🌟 My Hobbies are reading, writing, gyming, tennis-ing, meditating, programming, video-editing, photo-editing and more!
-- 💡 I’m currently learning Machine Learning and Unreal Engine
+- 💡 I’m currently learning Machine Learning and Webdevelopment
 - 📙 I love reading philosophy, history, science, self-help, finance and business related books!
 
 ### My Youtube channel!
